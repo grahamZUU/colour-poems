@@ -1,7 +1,8 @@
-this is colour Poem 1.
+this is colour Poem 1.2
 
 red
 blue
-green
+green and  cyan
+
 
 Bye..
